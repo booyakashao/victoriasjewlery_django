@@ -78,13 +78,13 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'django_victorias_jewlery',
-	'USER': 'djangoVictoria',
-	'PASSWORD': 'Diamonds0123',
-	'HOST': '127.0.0.1',
-	'PORT': '3306',
-	'TEST': {
-		'NAME': 'django_victorias_jewlery_test',
-		'USER': 'djangoVictoria',
+	    'USER': 'djangoVictoria',
+	    'PASSWORD': 'Diamonds0123',
+	    'HOST': '127.0.0.1',
+	    'PORT': '3306',
+	    'TEST': {
+		    'NAME': 'django_victorias_jewlery_test',
+		    'USER': 'djangoVictoria',
         	'PASSWORD': 'Diamonds0123',
         	'HOST': '127.0.0.1',
         	'PORT': '3306',
